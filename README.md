@@ -1,4 +1,4 @@
-# AIML — AI-Powered Cyber Threat Detection Framework
+# Aegis — AI-Powered Cyber Threat Detection Framework
 
 An end-to-end system that detects network intrusions in real time using a hybrid
 machine learning pipeline, and surfaces alerts through a full-stack security
